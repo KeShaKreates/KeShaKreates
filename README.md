@@ -5,7 +5,7 @@
 <h3 align="center">Passionate Full-Stack Web Developer</h3>
 
 
-- 👩🏾‍💻Let me introduce myself, I'm KeSha and I'm from California.
+- 👩🏾‍💻Let me introduce myself, I'm KeSha.
 
 - 🖥 All of my projects are available at [https://keshakreates.com/#](https://keshakreates.com/#)
 
