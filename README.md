@@ -1,4 +1,5 @@
-![Futuristic Digital Background LinkedIn Banner](https://user-images.githubusercontent.com/103616990/175461631-7abfefa2-29fd-4156-8290-4ecb791e41b7.png)
+![Banner](https://user-images.githubusercontent.com/103616990/175493325-e485c8aa-5f80-4d91-9096-a706dc609889.png)
+
 
 
 <h1 align="center">Hi 👋🏾, I'm KeSha Smith</h1>
