@@ -25,7 +25,7 @@
 
 
 
-/*Start*/
+
 <h2 align="center">Projects </h2>
 <div align="center">
 <table>
@@ -48,7 +48,6 @@
 </p>
 <p><strong>HTML5, CSS3</strong> - A fully responsive and vibrant home page for a upcoming yoga studio.</p>
 </div>
-/*End*/
 
 
 
