@@ -31,23 +31,4 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Vibe High Hot Yoga</h2>
-<div align="center" >  
-<a href='https://vibehighhotyoga.netlify.app'> 
-</a>
     
-<br>
-<br>
-<p>
-  
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-    
-<a href="https://vibehighhotyoga.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-</a>
-</p>
-<p><strong>HTML5, CSS3</strong> - A fully responsive and vibrant home page for a upcoming yoga studio.</p>
-</div>
-
-
-
