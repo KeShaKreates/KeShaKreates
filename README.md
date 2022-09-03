@@ -37,7 +37,6 @@
 	<div align="center" >  
 	<a href='https://github.com/KeShaKreates/vibe-high-hot-yoga/blob/main/index.html'> </a>
 	 
-        https://github.com/KeShaKreates/vibe-high-hot-yoga/blob/main/IMG_8764.jpg
 	
 	<br>
 	<br>
