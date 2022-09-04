@@ -106,7 +106,17 @@
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3"/>  
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>  
+  <img src="https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express"/>  
+  <img src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript"/>  
+  <img src="https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=mongodb"/>  
+  <img src="https://img.shields.io/badge/NODE.JS-black?style=for-the-badge&logo=node.js"/>  
+  <img src="https://img.shields.io/badge/REACT.JS-black?style=for-the-badge&logo=react"/>  
+  <img src="https://img.shields.io/badge/POSTGRESQL.JS-black?style=for-the-badge&logo=postgresql"/>  
+</p>
+
 
 
 
