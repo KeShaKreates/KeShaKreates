@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm KeSha</h1>
 
-I am a Full Stack Software Engineer who loves to provide my clients with an aesthetically pleasing and efficent product. I look forward to solving problems and building new things for companies and individuals that need them!
+I am a Full Stack Software Engineer who loves to provide my clients with an aesthetically pleasing and efficient product. I look forward to solving problems and building new things for companies and individuals that need them!
 
 You can find all of my projects on my <a href="https://keshakreates.com/#](https://keshakreates.com/#)">website</a>.
 
@@ -26,7 +26,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <a href='https://vibehighhotyoga.netlify.app'> 
   </a>
     
- <img width ="300px" height="300px" src="https://user-images.githubusercontent.com/103616990/188330399-cf21b5de-0ab6-48fe-b66b-0241315b1b8a.jpeg"/>
+ <img width ="75%" src="https://user-images.githubusercontent.com/103616990/188330399-cf21b5de-0ab6-48fe-b66b-0241315b1b8a.jpeg"/>
 
   <br>
   <br>
