@@ -31,5 +31,82 @@
 <table>
 <tr>
 <td width="50%">
+  <h3 align="center" color="white">Vibe High Hot Yoga</h2>
+  <div align="center" >  
+  <a href='https://vibehighhotyoga.netlify.app'> 
+  </a>
+    
+  https://user-images.githubusercontent.com/103616990/188328447-05541f23-1d92-4f4c-a4aa-aad0d1bfd348.jpg
 
-  
+  <br>
+  <br>
+  <p>
+    <a href="https://github.com/KeShaKreates/vibehighhotyoga" target="_blank">
+    
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+      
+  <a href="https://vibehighhotyoga.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff69b4"/>
+  </a>
+  </p>
+  <p><strong>HTML5 & CSS3 </strong> - Coming Soon</p>
+  </div>
+    
+    <h3 align="center" color="white">Coming Soon</h2>
+  <div align="center" >  
+  <a href='website link'> 
+  </a>
+    
+    
+  <br>
+  <br>
+  <p>
+    <a href="code link" target="_blank">
+    
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+      
+  <a href="website link" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff69b4"/>
+  </a>
+  </p>
+  <p><strong>Coming Soon</strong> - Coming Soon</p>
+  </div>
+  </td>
+  <td width="50%">
+  <h3 align="center" color="white">Coming Soon</h2>
+  <div align="center" >  
+  <a href='website link'>
+  </a>
+   
+    
+  <br>
+  <br>
+  <p>
+  <a href="code link" target="_blank">
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="website link" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff69b4"/>
+  </a>
+  </p>
+  <p><strong>Coming Soon</strong> - Coming Soon</p>
+  </div>
+    <h3 align="center" color="white">Coming Soon</h2>
+  <div align="center" >  
+  <a href='website link'>
+  </a>
+   
+    
+  <br>
+  <br>
+  <p>
+  <a href="code link" target="_blank">
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="website link" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff69b4"/>
+  </a>
+  </p>
+  <p><strong>Coming Soon</strong> - Coming Soon</p>
+  </div>
+  </table>
