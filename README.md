@@ -36,7 +36,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
       
   <a href="https://vibehighhotyoga.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff69b4"/>
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
   <p><strong>HTML5 & CSS3 </strong> - Coming Soon</p>
@@ -55,7 +55,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
       
   <a href="website link" target="_blank">
-  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff69b4"/>
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
   <p><strong>Coming Soon</strong> - Coming Soon</p>
@@ -75,7 +75,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
   </a>  
   <a href="website link" target="_blank">
-  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff69b4"/>
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
   <p><strong>Coming Soon</strong> - Coming Soon</p>
@@ -93,7 +93,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
   </a>  
   <a href="website link" target="_blank">
-  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff69b4"/>
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
   <p><strong>Coming Soon</strong> - Coming Soon</p>
