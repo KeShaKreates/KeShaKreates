@@ -51,7 +51,6 @@
   </p>
   <p><strong>HTML5 & CSS3 </strong> - Coming Soon</p>
   </div>
-    
     <h3 align="center" color="white">Coming Soon</h>
   <div align="center" >  
   <a href='website link'> 
