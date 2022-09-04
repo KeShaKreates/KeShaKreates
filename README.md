@@ -52,7 +52,7 @@
   <p><strong>HTML5 & CSS3 </strong> - Coming Soon</p>
   </div>
     
-    <h3 align="center" color="white">Coming Soon</h>
+    <h3 align="center" color="white">Coming Soon</h3>
   <div align="center" >  
   <a href='website link'> 
   </a>
