@@ -36,7 +36,7 @@
   <a href='https://vibehighhotyoga.netlify.app'> 
   </a>
     
- <img  width ="150px" height="150px" src="https://user-images.githubusercontent.com/103616990/188328447-05541f23-1d92-4f4c-a4aa-aad0d1bfd348.jpg"/>
+ <img width ="300px" height="300px" src="https://user-images.githubusercontent.com/103616990/188330399-cf21b5de-0ab6-48fe-b66b-0241315b1b8a.jpeg"/>
 
   <br>
   <br>
@@ -56,7 +56,7 @@
   <a href='website link'> 
   </a>
     
-    
+ 
   <br>
   <br>
   <p>
