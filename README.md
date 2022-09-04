@@ -36,7 +36,6 @@
   <a href='https://vibehighhotyoga.netlify.app'> 
   </a>
     
-  https://user-images.githubusercontent.com/103616990/188328447-05541f23-1d92-4f4c-a4aa-aad0d1bfd348.jpg
 
   <br>
   <br>
