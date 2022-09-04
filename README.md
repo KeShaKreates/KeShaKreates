@@ -73,7 +73,7 @@
   </div>
   </td>
   <td width="50%">
-  <h3 align="center" color="white">Coming Soon</h2>
+  <h3 align="center" color="white">Coming Soon</h3>
   <div align="center" >  
   <a href='website link'>
   </a>
