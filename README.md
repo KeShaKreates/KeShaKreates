@@ -31,7 +31,7 @@
 <table>
 <tr>
 <td width="50%">
-  <h3 align="center" color="white">Vibe High Hot Yoga</h2>
+  <h3 align="center" color="white">Vibe High Hot Yoga</h3>
   <div align="center" >  
   <a href='https://vibehighhotyoga.netlify.app'> 
   </a>
@@ -51,7 +51,7 @@
   </p>
   <p><strong>HTML5 & CSS3 </strong> - Coming Soon</p>
   </div>
-    <h3 align="center" color="white">Coming Soon</h>
+    <h3 align="center" color="white">Coming Soon</h3>
   <div align="center" >  
   <a href='website link'> 
   </a>
