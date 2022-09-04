@@ -1,18 +1,20 @@
 ![Banner](https://user-images.githubusercontent.com/103616990/175493325-e485c8aa-5f80-4d91-9096-a706dc609889.png)
 
 
+<h1 align="center">Hi, I'm KeSha</h1>
 
-<h1 align="center">Hi 👋🏾, I'm KeSha Smith</h1>
-<h2 align="center">Passionate Full-Stack Web Developer</h2>
+I am a Full Stack Software Engineer who loves to provide my clients with an aesthetically pleasing and efficent product. I look forward to solving problems and building new things for companies and individuals that need them!
+
+You can find all of my projects on my <a href="https://keshakreates.com/#](https://keshakreates.com/#)">website</a>.
 
 
-- 👩🏾‍💻Let me introduce myself, I'm KeSha.
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://twitter.com/keshakreates" target="blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+ <a href="https://www.linkedin.com/in/kesha-smith-/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+   <a href="https://angel.co/u/kesha-smith" target="blank"><img src="https://img.shields.io/badge/Angellist-black?style=for-the-badge&logo=angellist"/>
+</p>
 
-- 🖥 All of my projects are available at [https://keshakreates.com/#](https://keshakreates.com/#)
-
-- 💬 Ask me about the MERN stack, websites or apps.
-
-- 📸 Fun fact I love photography!
 
 <h2 align="center">Projects </h2>
 <div align="center">
@@ -98,12 +100,6 @@
   </div>
   </table>
 
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-  <a href="https://twitter.com/keshakreates" target="blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
- <a href="https://www.linkedin.com/in/kesha-smith-/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
-</p>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
