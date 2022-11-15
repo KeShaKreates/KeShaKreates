@@ -40,7 +40,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
-  <p><strong>HTML5 & CSS3 </strong> - Coming Soon</p>
+  <p><strong>HTML5 & CSS3 </strong> - A fully responsive and vibrant home page for a upcoming yoga studio.</p>
   </div>
     <h3 align="center" color="white">Coming Soon</h3>
   <div align="center" >  
@@ -114,7 +114,10 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=mongodb"/>  
   <img src="https://img.shields.io/badge/NODE.JS-black?style=for-the-badge&logo=node.js"/>  
   <img src="https://img.shields.io/badge/REACT.JS-black?style=for-the-badge&logo=react"/>  
-  <img src="https://img.shields.io/badge/POSTGRESQL.JS-black?style=for-the-badge&logo=postgresql"/>  
+  <img src="https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=postgresql"/>  
+  <img src="https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=typescript"/>  
+  <img src="https://img.shields.io/badge/GRAPHQL-black?style=for-the-badge&logo=graphql"/> 
+  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php"/>  
 </p>
 
 
