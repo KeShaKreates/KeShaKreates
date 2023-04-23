@@ -69,7 +69,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <a href='https://24-k-salon.netlify.app/#'>
   </a>
    
-  <img width ="75%" src="https://user-images.githubusercontent.com/103616990/188333035-c93ec345-b2e7-4d5d-af2f-20fd79e94726.jpeg"/>
+  <img width ="75%" src="https://github.com/KeShaKreates/24-K-Salon/blob/main/24ksalonwebsiteimg.jpg"/>
     
   <br>
   <br>
