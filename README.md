@@ -56,7 +56,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
     
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
       
-  <a href="website link" target="_blank">
+  <a href="https://24-k-salon.netlify.app/#" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
@@ -64,9 +64,9 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   </div>
   </td>
   <td width="50%">
-    <h3 align="center" color="white">Coming Soon</h3>
+    <h3 align="center" color="white">24 K Salon</h3>
   <div align="center" >  
-  <a href='website link'>
+  <a href='https://24-k-salon.netlify.app/#'>
   </a>
    
   <img width ="75%" src="https://user-images.githubusercontent.com/103616990/188333035-c93ec345-b2e7-4d5d-af2f-20fd79e94726.jpeg"/>
@@ -74,14 +74,14 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <br>
   <br>
   <p>
-  <a href="code link" target="_blank">
+  <a href="https://github.com/KeShaKreates/24-K-Salon" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="website link" target="_blank">
+  <a href="https://24-k-salon.netlify.app/#" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
-  <p><strong>Coming Soon</strong> - Coming Soon</p>
+  <p><strong>HTML5, CSS3, JS</strong> - A sleek and stylish salon website for those who want to look their best.</p>
   </div>
     <h3 align="center" color="white">Coming Soon</h3>
   <div align="center" >  
