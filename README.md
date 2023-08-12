@@ -42,17 +42,17 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   </p>
   <p><strong>HTML5 & CSS3 </strong> - A fully responsive and vibrant home page for a upcoming yoga studio.</p>
   </div>
-    <h3 align="center" color="white">Coming Soon</h3>
+    <h3 align="center" color="white">Distribute Aid</h3>
   <div align="center" >  
-  <a href='website link'> 
+  <a href='https://distributeaid.org/team/'> 
   </a>
     
-  <img width ="75%" src="https://user-images.githubusercontent.com/103616990/188333035-c93ec345-b2e7-4d5d-af2f-20fd79e94726.jpeg"/>
+  <img width ="75%" src="https://github.com/KeShaKreates/KeShaKreates/assets/103616990/8914561e-d238-42e3-ba13-0464d14ad0df"/>
 
   <br>
   <br>
   <p>
-    <a href="code link" target="_blank">
+    <a href="https://github.com/distributeaid" target="_blank">
     
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
       
@@ -119,8 +119,6 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/GRAPHQL-black?style=for-the-badge&logo=graphql"/> 
   <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php"/>  
 </p>
-
-
 
 
 
