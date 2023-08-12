@@ -56,7 +56,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
     
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
       
-  <a href="https://distributeaid.org/team/'" target="_blank">
+  <a href="https://distributeaid.org/team/" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
