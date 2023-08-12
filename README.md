@@ -17,7 +17,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
 
 
 
-<h2 align="center">Projects </h2>
+<h2 align="center">Projects and Contributions</h2>
 <div align="center">
 <table>
 <tr>
