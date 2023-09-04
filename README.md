@@ -102,7 +102,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
-  <p><strong>Coming Soon</strong> - A bright and transformative website for a non profit.</p>
+  <p><strong>WordPress, HTML5, CSS3, & JS</strong> - A bright and transformative website for a non profit.</p>
   </div>
   </table>
 
