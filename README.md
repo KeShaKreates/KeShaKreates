@@ -95,10 +95,10 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <br>
   <br>
   <p>
-  <a href=https://empowerglobalinc.org" target="_blank">
+  <a href= 'https://empowerglobalinc.org ' target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
   </a>  
-  <a href=https://empowerglobalinc.org" target="_blank">
+  <a href='https://empowerglobalinc.org' target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
