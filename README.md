@@ -88,16 +88,17 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <a href='https://empowerglobalinc.org'>
   </a>
    
-  <img width ="75%" src="https://github.com/KeShaKreates/KeShaKreates/assets/103616990/936ba76e-70cd-4353-8d0f-c19e1063579a"/>
-    !
+  <img width ="75%" src="https://github.com/KeShaKreates/KeShaKreates/assets/103616990/35c510eb-0287-4850-a0e2-4b6113201130"/>
+   
+
 
   <br>
   <br>
   <p>
-  <a href="'https://empowerglobalinc.org" target="_blank">
+  <a href=https://empowerglobalinc.org" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="'https://empowerglobalinc.org" target="_blank">
+  <a href=https://empowerglobalinc.org" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
