@@ -83,26 +83,26 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   </p>
   <p><strong>HTML5, CSS3, & JS</strong> - A sleek and stylish salon website for those who want to book and look their best.</p>
   </div>
-    <h3 align="center" color="white">Empower Global Inc</h3>
+    <h3 align="center" color="white">Coming Soon</h3>
   <div align="center" >  
-  <a href='https://empowerglobalinc.org'>
+  <a href=''>
   </a>
    
-  <img width ="75%" src="https://github.com/KeShaKreates/KeShaKreates/assets/103616990/35c510eb-0287-4850-a0e2-4b6113201130"/>
+  <img width ="75%" src=""/>
    
 
 
   <br>
   <br>
   <p>
-  <a href= 'https://empowerglobalinc.org ' target="_blank">
+  <a href= '' target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
   </a>  
-  <a href='https://empowerglobalinc.org' target="_blank">
+  <a href='' target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
-  <p><strong>WordPress, HTML5, CSS3, & JS</strong> - A bright and transformative website for a non profit.</p>
+  <p><strong>Coming Soon</p>
   </div>
   </table>
 
