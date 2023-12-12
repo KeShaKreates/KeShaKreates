@@ -102,7 +102,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
-  <p><strong>Coming Soon</p>
+  <p><strong>EJS, Tailwind, JS,  jQuery,  Node.js, Express.js, & MongoDB - A full-stack web application that focuses on bettering the user’s mental state.</p>
   </div>
   </table>
 
