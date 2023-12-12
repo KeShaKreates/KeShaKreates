@@ -46,8 +46,8 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <div align="center" >  
   <a href='https://distributeaid.org/team/'> 
   </a>
-    
-  <img width ="75%" src="https://github.com/KeShaKreates/KeShaKreates/assets/103616990/8914561e-d238-42e3-ba13-0464d14ad0df"/>
+
+  <img width ="75%" src="https://github.com/KeShaKreates/KeShaKreates/assets/103616990/b9afa26e-4728-4eb0-aabb-e57ae434b949"/>
 
   <br>
   <br>
