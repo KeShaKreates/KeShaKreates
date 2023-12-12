@@ -120,6 +120,8 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=typescript"/>  
   <img src="https://img.shields.io/badge/GRAPHQL-black?style=for-the-badge&logo=graphql"/> 
   <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php"/>  
+  <img src="https://img.shields.io/badge/JQUERY-black?style=for-the-badge&logo=jquery"/>  
+  <img src="https://img.shields.io/badge/EJS-black?style=for-the-badge&logo=ejs"/>  
 </p>
 
 
