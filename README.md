@@ -60,7 +60,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
-  <p><strong>Typescript, React, JS, Tailwind & GraphQL</strong> - A responsive and accessible team page for a humanitarian organization. </p>
+  <p><strong>Typescript, React, HTML5, JS, Tailwind & GraphQL</strong> - A responsive and accessible team page for a humanitarian organization. </p>
   </div>
   </td>
   <td width="50%">
