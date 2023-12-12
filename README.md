@@ -83,7 +83,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   </p>
   <p><strong>HTML5, CSS3, & JS</strong> - A sleek and stylish salon website for those who want to book and look their best.</p>
   </div>
-    <h3 align="center" color="white">Coming Soon</h3>
+    <h3 align="center" color="white">Kalm Life</h3>
   <div align="center" >  
   <a href=''>
   </a>
@@ -95,10 +95,10 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <br>
   <br>
   <p>
-  <a href= '' target="_blank">
+  <a href= "https://github.com/KeShaKreates/Kalm-Life/tree/main" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
   </a>  
-  <a href='' target="_blank">
+  <a href= "https://kalm-life.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
