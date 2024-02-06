@@ -27,12 +27,12 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <a href='https://vibehighhotyoga.netlify.app'> 
   </a>
     
- <img width ="75%" src="https://user-images.githubusercontent.com/103616990/188330399-cf21b5de-0ab6-48fe-b66b-0241315b1b8a.jpeg"/>
+ <img width ="75%" src="https://github.com/KeShaKreates/KeShaKreates/assets/103616990/eb5b2c28-322f-4033-bf9a-17a1ce159803"/>
 
   <br>
   <br>
   <p>
-    <a href="https://github.com/KeShaKreates/vibehighhotyoga" target="_blank">
+    <a href="https://github.com/KeShaKreates/Vibe-High-Hot-Yoga" target="_blank">
     
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
       
