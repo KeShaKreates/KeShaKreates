@@ -40,7 +40,7 @@ You can find all of my projects on my <a href="https://keshakreates.com/#](https
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ceedc7"/>
   </a>
   </p>
-  <p><strong>HTML5 & CSS3 </strong> - A fully responsive and vibrant home page for a upcoming yoga studio.</p>
+  <p><strong>HTML5, CSS3, & Bootstrap </strong> - A fully responsive and vibrant home page for a upcoming yoga studio.</p>
   </div>
     <h3 align="center" color="white">Distribute Aid</h3>
   <div align="center" >  
