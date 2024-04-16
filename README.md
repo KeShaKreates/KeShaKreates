@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm KeSha</h1>
 
-I am a Full Stack Software Engineer who loves to provide my clients with an aesthetically pleasing and efficient product. I look forward to solving problems and building new things for companies and individuals that need them!
+I am a Software Engineer who loves to provide my clients with an aesthetically pleasing and efficient product. I look forward to solving problems and building new things for companies and individuals that need them!
 
 You can find all of my projects on my <a href="https://keshakreates.com/#](https://keshakreates.com/#)">website</a>.
 
